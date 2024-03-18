@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello, I'm Dinesh, a 4th-year student at Dal.
         </p>
+       
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://web.cs.dal.ca/~dsalem/csci3172/lab1/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          About Me
         </a>
       </header>
     </div>
@@ -23,3 +24,4 @@ function App() {
 }
 
 export default App;
+
